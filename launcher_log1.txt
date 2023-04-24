@@ -1,0 +1,57 @@
+[Info: 2023-04-15 04:29:46.7881373: NetQueue.cpp(186)] NetQueue: Setting up.
+[Info: 2023-04-15 04:29:46.7886381: NetQueue.cpp(671)] NetQueue: worker thread started.
+[Info: 2023-04-15 04:29:46.7886985: mainWindows.cpp(81)] Running launcher bootstrap (version 1.2.3)
+[Info: 2023-04-15 04:29:46.7945950: NetQueue.cpp(186)] NetQueue: Setting up.
+[Info: 2023-04-15 04:29:46.7953220: NetQueue.cpp(671)] NetQueue: worker thread started.
+[Info: 2023-04-15 04:29:46.7958061: Common.cpp(32)] Native Launcher Version: 1.2.3
+[Info: 2023-04-15 04:29:46.7958335: Common.cpp(33)] Operating System: Windows 10 Enterprise
+[Info: 2023-04-15 04:29:46.7958804: Common.cpp(34)] Application Data directory: C:\...\.minecraft
+[Info: 2023-04-15 04:29:46.7959864: Common.cpp(35)] Executable Path: /:\...\MinecraftLauncher.exe
+[Info: 2023-04-15 04:29:46.7960139: Common.cpp(36)] App Directory dir: C:\...\Minecraft Launcher
+[Info: 2023-04-15 04:29:46.7960393: Common.cpp(37)] Game data directory: C:\...\.minecraft
+[Info: 2023-04-15 04:29:46.7960617: Common.cpp(38)] Launcher dir: C:\...\game
+[Info: 2023-04-15 04:29:46.7960844: Common.cpp(39)] Update dir: C:\...\update_files
+[Info: 2023-04-15 04:29:46.7961065: Common.cpp(40)] TmpDir dir: C:\...\MinecraftLauncher
+[Info: 2023-04-15 04:29:46.7962643: UpdateTools.cpp(118)] Using update preferences at path: C:\...\launcher_profiles.json
+[Warning: 2023-04-15 04:29:46.7964246: UpdateTools.cpp(41)] Failed to get clientToken from configuration, launcher updater will fall back to using stable versions instead of controlled experiment versions.
+[Warning: 2023-04-15 04:29:46.7964478: UpdateTools.cpp(84)] Unexpected update selection strategy: . Setting to: STABLE_VERSIONS
+[Warning: 2023-04-15 04:29:46.7964642: UpdateTools.cpp(97)] Unable to find 'channel' key in settings.
+[Info: 2023-04-15 04:29:46.7964842: UpdateTools.cpp(121)] Failed to read update preferences from C:\...\launcher_profiles.json
+[Info: 2023-04-15 04:29:46.7965084: UpdateTools.cpp(132)] Using update preferences at path: C:\...\launcher_settings.json
+[Warning: 2023-04-15 04:29:46.7966347: UpdateTools.cpp(84)] Unexpected update selection strategy: . Setting to: CONTROLLED_EXPERIMENT
+[Info: 2023-04-15 04:29:46.7966546: LauncherConfiguration.cpp(93)] Update preferences: strategy: 2, clientId: 1423825935, channel: release
+[Warning: 2023-04-15 04:29:46.8033717: Auth.cpp(226)] Error when retrieving secure token from STS: 2
+[Info: 2023-04-15 04:29:46.8036136: NetQueue.cpp(700)] NetQueue: Starting net action https://redstone-launcher.mojang.com/release/v2/products/launcher/8c27cef2cad375cacbb4a98169dae13a58fb7c09/win32.json?
+[Info: 2023-04-15 04:29:46.9007712: NetQueue.cpp(484)] NetQueue: Primary ip: 13.107.237.33, Host: redstone-launcher.mojang.com
+[Info: 2023-04-15 04:29:46.9008121: NetQueue.cpp(573)] NetQueue: Action finished: https://redstone-launcher.mojang.com/release/v2/products/launcher/8c27cef2cad375cacbb4a98169dae13a58fb7c09/win32.json?
+[Info: 2023-04-15 04:29:46.9008333: NetQueue.cpp(615)] Action finalized: https://redstone-launcher.mojang.com/release/v2/products/launcher/8c27cef2cad375cacbb4a98169dae13a58fb7c09/win32.json?
+[Info: 2023-04-15 04:29:46.9009568: AzureUpdateTools.cpp(222)] We should change bootstrap from 1.2.3 to 1.2.4
+[Info: 2023-04-15 04:29:46.9009904: UpdateTools.cpp(210)] bootstrap update is needed.
+[Info: 2023-04-15 04:29:46.9011046: AzureUpdateTools.cpp(222)] We should change core from 2.2.12145 to 2.4.30
+[Info: 2023-04-15 04:29:46.9011296: UpdateTools.cpp(210)] core update is needed.
+[Info: 2023-04-15 04:29:46.9011579: main.cpp(138)] Updating bootstrap...
+[Info: 2023-04-15 04:29:46.9012353: main.cpp(157)] Status reported: Downloading Minecraft.exe
+[Info: 2023-04-15 04:29:46.9012643: main.cpp(157)] Status reported: Downloading manifest...
+[Info: 2023-04-15 04:29:46.9012831: Updating.cpp(84)] Downloading https://redstone-launcher.mojang.com/release/v2/packages/dc23cce67eb94e2ff47668990f0a21f02853feed/manifest.json
+[Info: 2023-04-15 04:29:46.9014316: NetQueue.cpp(700)] NetQueue: Starting net action https://redstone-launcher.mojang.com/release/v2/packages/dc23cce67eb94e2ff47668990f0a21f02853feed/manifest.json
+[Info: 2023-04-15 04:29:46.9202097: NetQueue.cpp(484)] NetQueue: Primary ip: 13.107.237.33, Host: redstone-launcher.mojang.com
+[Info: 2023-04-15 04:29:46.9202604: NetQueue.cpp(573)] NetQueue: Action finished: https://redstone-launcher.mojang.com/release/v2/packages/dc23cce67eb94e2ff47668990f0a21f02853feed/manifest.json
+[Info: 2023-04-15 04:29:46.9202995: NetQueue.cpp(615)] Action finalized: https://redstone-launcher.mojang.com/release/v2/packages/dc23cce67eb94e2ff47668990f0a21f02853feed/manifest.json
+[Info: 2023-04-15 04:29:46.9204344: main.cpp(157)] Status reported: Inspecting current version and preparing for update...
+[Info: 2023-04-15 04:29:46.9230451: Updating.cpp(227)] Target path: C:\...\update_files
+[Info: 2023-04-15 04:29:46.9237711: Updating.cpp(245)] Staging path: C:\...\PistonStaging
+[Info: 2023-04-15 04:29:46.9241376: main.cpp(157)] Status reported: Downloading update files...
+[Info: 2023-04-15 04:29:46.9246210: NetQueue.cpp(700)] NetQueue: Starting net action https://redstone-launcher.mojang.com/release/v2/objects/68fda625ccda2f010bcd20eaaafee193b652e941/Minecraft.exe
+[Info: 2023-04-15 04:29:47.1137402: NetQueue.cpp(484)] NetQueue: Primary ip: 13.107.237.33, Host: redstone-launcher.mojang.com
+[Info: 2023-04-15 04:29:47.1137798: NetQueue.cpp(573)] NetQueue: Action finished: https://redstone-launcher.mojang.com/release/v2/objects/68fda625ccda2f010bcd20eaaafee193b652e941/Minecraft.exe
+[Info: 2023-04-15 04:29:47.1166777: NetQueue.cpp(615)] Action finalized: https://redstone-launcher.mojang.com/release/v2/objects/68fda625ccda2f010bcd20eaaafee193b652e941/Minecraft.exe
+[Info: 2023-04-15 04:29:47.1167470: main.cpp(157)] Status reported: Updating...
+[Info: 2023-04-15 04:29:47.1170126: Updating.cpp(406)] CopyFile(C:\...\68fda625ccda2f010bcd20eaaafee193b652e941, C:\...\Minecraft.exe, executable)
+[Info: 2023-04-15 04:29:47.4323440: main.cpp(157)] Status reported: Cleaning up...
+[Info: 2023-04-15 04:29:47.4338102: main.cpp(157)] Status reported: Unpacking update installer...
+[Info: 2023-04-15 04:29:47.4357932: main.cpp(157)] Status reported: Running update installer...
+[Info: 2023-04-15 04:29:47.5325796: LaunchApplicationWin32.cpp(41)] Started application tools\NativeUpdater.exe MinecraftLauncher.exe "C:\Program Files (x86)\Minecraft Launcher\update_files\Minecraft.exe"
+[Info: 2023-04-15 04:29:47.5326260: NetQueue.cpp(212)] NetQueue: Initiating shutdown.
+[Info: 2023-04-15 04:29:47.5326383: NetQueue.cpp(226)] NetQueue: Waiting for worker thread to finish...
+[Info: 2023-04-15 04:29:47.5326607: NetQueue.cpp(839)] NetQueue: Worker thread shutting down.
+[Info: 2023-04-15 04:29:47.5333452: NetQueue.cpp(229)] NetQueue: Done.

@@ -1,0 +1,10 @@
+{
+  "channel" : "release",
+  "customChannels" : [],
+  "deviceId" : 18137344711417781263,
+  "formatVersion" : 0,
+  "locale" : "pt-BR",
+  "productLibraryDir" : "C:\\Users\\felip\\AppData\\Local\\Mojang\\products",
+  "useArm64JreIfSupported" : false,
+  "version" : 2
+}
