@@ -6,5 +6,6 @@
   "locale" : "pt-BR",
   "productLibraryDir" : "C:\\Users\\felip\\AppData\\Local\\Mojang\\products",
   "useArm64JreIfSupported" : false,
-  "version" : 2
+  "useMagnifiedMode" : false,
+  "version" : 4
 }

@@ -1,0 +1,91 @@
+{
+  "version": 1,
+  "Generic": {
+    "syncLowTps": {
+      "enabled": true,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "syncHighTps": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "creativeNoClip": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "creativeNoClipOverride": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    }
+  },
+  "GenericToggles": {
+    "syncLowTps": {
+      "enabled": true,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "syncHighTps": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "creativeNoClip": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "creativeNoClipOverride": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "soundEngineFix": {
+      "enabled": true,
+      "hotkey": {
+        "keys": ""
+      }
+    }
+  },
+  "GenericHotkeys": {
+    "syncLowTps": {
+      "keys": ""
+    },
+    "syncHighTps": {
+      "keys": ""
+    },
+    "creativeNoClip": {
+      "keys": ""
+    },
+    "creativeNoClipOverride": {
+      "keys": ""
+    },
+    "soundEngineFix": {
+      "keys": ""
+    }
+  },
+  "Rendering": {
+    "movingBlockCulling": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    }
+  },
+  "RenderingHotkeys": {
+    "movingBlockCulling": {
+      "keys": ""
+    }
+  }
+}
