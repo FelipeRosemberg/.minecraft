@@ -1,5 +1,5 @@
-[0522/234731.560:INFO:main_context.cpp(136)] CEF initialized successfully.
-[0522/234731.560:INFO:main_context.cpp(138)] CEF version: 99.2.14+g3f796b8+chromium-99.0.4844.84
-[0522/234745.421:WARNING:frame_host_impl.cc(533)] SendProcessMessage sent to detached mainframe 21474836481 [5,1] will be ignored
-[0522/234745.422:INFO:LauncherAppRenderer.cpp(542)] OnContextReleased: no frame (unknown context), browser id=1
-[0522/234931.656:ERROR:gpu_init.cc(440)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0605/203055.200:INFO:main_context.cpp(136)] CEF initialized successfully.
+[0605/203055.200:INFO:main_context.cpp(138)] CEF version: 99.2.14+g3f796b8+chromium-99.0.4844.84
+[0605/203124.125:WARNING:frame_host_impl.cc(533)] SendProcessMessage sent to detached mainframe 21474836481 [5,1] will be ignored
+[0605/203124.126:INFO:LauncherAppRenderer.cpp(542)] OnContextReleased: no frame (unknown context), browser id=1
+[0605/203255.282:ERROR:gpu_init.cc(440)] Passthrough is not supported, GL is disabled, ANGLE is 

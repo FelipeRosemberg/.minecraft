@@ -78,7 +78,7 @@
       "keys": ""
     },
     "executeOperation": {
-      "keys": ""
+      "keys": "L"
     },
     "invertGhostBlockRenderState": {
       "keys": ""
@@ -87,10 +87,10 @@
       "keys": ""
     },
     "layerModeNext": {
-      "keys": "M,PAGE_UP"
+      "keys": ""
     },
     "layerModePrevious": {
-      "keys": "M,PAGE_DOWN"
+      "keys": "M,S"
     },
     "layerNext": {
       "keys": "PAGE_UP"
